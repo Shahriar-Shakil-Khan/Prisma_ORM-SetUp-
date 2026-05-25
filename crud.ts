@@ -11,6 +11,17 @@ async function run(){
     // })
     // console.log(createUser)
    
+// const createPost = await prisma.post.create({
+
+//         data: {
+//         title: "My First Post",
+//         content: "This is the content of my first post.",
+//         authorId:1 
+//     }, 
+
+//     })
+//     console.log(createPost)
+
 
  
 }
