@@ -58,6 +58,16 @@ async function run(){
 //     }
 // })
     
+//   console.log(updateUser)
+
+//  const deleteUser= await prisma.user.delete({
+//     where:{
+//         id:2
+//     }
+//  })
+
+// console.log(deleteUser)
+
 
  
 }
