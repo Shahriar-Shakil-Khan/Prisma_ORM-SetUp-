@@ -149,3 +149,5 @@ npx prisma migrate dev --create-only
 npx prisma migrate reset     
 npx prisma migrate dev --name add_name_field 
 npx prisma migrate dev 
+
+![alt text](image.png)
