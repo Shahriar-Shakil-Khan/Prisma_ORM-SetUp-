@@ -32,6 +32,19 @@ async function run(){
 //     })
 //     console.log(createProfile)
 
+// const users = await prisma.user.findMany({
+//     // include: {
+//     //     posts: true,
+//     //     profile: true
+//     // },
+//     select: {
+//         id: true,
+//         name: true,
+//         email: true,
+//         posts: true,
+//         profile: true
+//     }
+// });
 
  
 }
