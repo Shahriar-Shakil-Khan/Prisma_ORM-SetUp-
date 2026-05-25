@@ -22,6 +22,16 @@ async function run(){
 //     })
 //     console.log(createPost)
 
+// const createProfile = await prisma.profile.create({
+
+//         data: {
+//         bio: "My First Post",
+//         userId:1 
+//     }, 
+
+//     })
+//     console.log(createProfile)
+
 
  
 }
