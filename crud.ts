@@ -45,6 +45,19 @@ async function run(){
 //         profile: true
 //     }
 // });
+// console.dir(users, { depth: Infinity });
+
+// const updateUser = await prisma.profile.update({
+//     where:{
+//         userId:1
+//     },
+//     data:{
+//         bio:"Software Engineer",
+//         dateOfBirth:"2026-05-25T15:34:58.009Z"
+
+//     }
+// })
+    
 
  
 }
